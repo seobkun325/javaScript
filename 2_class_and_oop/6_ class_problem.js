@@ -175,3 +175,4 @@ const allTogether = new Country(
   ],
 );
 console.log(allTogether);
+console.log('--------------------------------');
